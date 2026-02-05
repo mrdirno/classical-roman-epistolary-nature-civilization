@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_epistolary_nature_civilization",
+  "title": "The Soil That Screams",
+  "tagline": "In the heart of Imperial Rome, a woman who speaks the language of earth must heal a dying garden—and confront the rot at the root of an empire.",
+  "target_words": 70000,
+  "actual_words": 75705,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Nature as a System of Knowledge vs. Human Control",
+    "The Epistolary Self: Identity Forged Through Correspondence",
+    "Civilization as a Constructed Ecosystem",
+    "The Corruption of Excess and the Wisdom of Restraint"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Summons",
+      "words": 3154
+    },
+    {
+      "ch": 2,
+      "title": "The Stone Beast",
+      "words": 3154
+    },
+    {
+      "ch": 3,
+      "title": "A Letter of Introduction",
+      "words": 3154
+    },
+    {
+      "ch": 4,
+      "title": "The Patient",
+      "words": 3154
+    },
+    {
+      "ch": 5,
+      "title": "Prescription",
+      "words": 3154
+    },
+    {
+      "ch": 6,
+      "title": "Root and Rot",
+      "words": 3154
+    },
+    {
+      "ch": 7,
+      "title": "Corvus",
+      "words": 3154
+    },
+    {
+      "ch": 8,
+      "title": "Lepidus",
+      "words": 3154
+    },
+    {
+      "ch": 9,
+      "title": "The First Dig",
+      "words": 3154
+    },
+    {
+      "ch": 10,
+      "title": "Whispers in the Colonnade",
+      "words": 3154
+    },
+    {
+      "ch": 11,
+      "title": "A Gift of Worms",
+      "words": 3154
+    },
+    {
+      "ch": 12,
+      "title": "The Hill's Reply",
+      "words": 3154
+    },
+    {
+      "ch": 13,
+      "title": "The Politics of Soil",
+      "words": 3154
+    },
+    {
+      "ch": 14,
+      "title": "A Blight Revealed",
+      "words": 3154
+    },
+    {
+      "ch": 15,
+      "title": "The Cistern",
+      "words": 3154
+    },
+    {
+      "ch": 16,
+      "title": "Correspondence of Stone and Leaf",
+      "words": 3154
+    },
+    {
+      "ch": 17,
+      "title": "Festival of Fools",
+      "words": 3154
+    },
+    {
+      "ch": 18,
+      "title": "The Offer",
+      "words": 3154
+    },
+    {
+      "ch": 19,
+      "title": "A Different Sickness",
+      "words": 3154
+    },
+    {
+      "ch": 20,
+      "title": "The Father's Letters",
+      "words": 3154
+    },
+    {
+      "ch": 21,
+      "title": "Seeds of Discord",
+      "words": 3154
+    },
+    {
+      "ch": 22,
+      "title": "Harvest",
+      "words": 3154
+    },
+    {
+      "ch": 23,
+      "title": "The Taste of Air",
+      "words": 3154
+    },
+    {
+      "ch": 24,
+      "title": "What the Earth Remembers",
+      "words": 3155
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Tertia to her father's ashes, explaining her choice to stay in Rome and confront its 'sickness'.",
+      "Compose a missing chapter: a letter from Lepidus to a political ally, where he describes the 'peculiar woman from the hills' and her effect on his household.",
+      "Write the journal entry of Thias, Tertia's slave, observing his mistress's work and the strange dynamics of the Palatine house.",
+      "Create a 'field guide' entry from Tertia's notes: 'On the Humours of Cultivated Earth, and Their Distempers'."
+    ],
+    "technical": [
+      "Build an interactive 'Epistolary Engine' that generates correspondence between characters based on story events and thematic tensions.",
+      "Design a 'Soil Health Simulator' for the garden, modeling variables like water, sunlight, soil composition, and 'political pressure' affecting its recovery."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Pliny the Elder (Natural History)",
+      "Epicurus (Philosophy of Nature & Simplicity)",
+      "Cicero (Epistolary Form & Civic Duty)",
+      "Virgil (Georgics: The Poetry of Cultivation)"
+    ]
+  },
+  "cover_prompt": "A determined Roman woman in a simple stola, her hands plunged deep into dark, cracked earth as glowing, root-like veins of light pulse beneath her skin and travel up her arms, [Detailed Scene & Context: set within a decaying, overgrown imperial garden at dusk; marble statues are choked by vines, a dry fountain stands in the background, and the geometric order of the garden is being subsumed by wild, whispering foliage, with fragments of wax tablet letters half-buried in the soil], [Artistic Style & Medium: in the atmospheric and textured style of Anselm Kiefer, blending historical weight with organic decay, rendered in mixed media with impasto oil textures, embedded organic matter, and subtle metallics], [Composition & Camera: book cover framing, a centered and intimate composition with a dramatic low-angle that emphasizes the woman's connection to the earth and the towering, corrupted garden around her], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single source of dying golden-hour light cutting through gloom, color palette of burnt umber, imperial purple, decayed gold, deep soil black, and ethereal bioluminescent green], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
